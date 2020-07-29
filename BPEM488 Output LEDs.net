@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source "C:\\Users\\angel\\Documents\\KiCad Projects\\BPEM488 Output LEDs\\BPEM488 Output LEDs.sch")
-    (date "2020-07-08 3:10:49 PM")
+    (date "2020-07-24 2:36:14 PM")
     (tool "Eeschema (5.1.6)-1")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
@@ -397,9 +397,9 @@
         (pin (num 2) (name ~) (type passive)))))
   (libraries
     (library (logical Connector)
-      (uri "C:\\Program Files\\KiCad\\share\\kicad\\library/Connector.lib"))
+      (uri "C:\\Program Files (x86)\\KiCad\\share\\kicad\\library/Connector.lib"))
     (library (logical Device)
-      (uri "C:\\Program Files\\KiCad\\share\\kicad\\library/Device.lib")))
+      (uri "C:\\Program Files (x86)\\KiCad\\share\\kicad\\library/Device.lib")))
   (nets
     (net (code 1) (name "Net-(D2-Pad1)")
       (node (ref J2) (pin 1))
